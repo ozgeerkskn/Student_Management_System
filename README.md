@@ -24,3 +24,9 @@ Follow the steps below to login to the system:
     root  root
 
    For communication: ozgeerkskn@hotmail.com
+
+![Ekran Alıntısı1](https://github.com/ozgeerkskn/Student_Management_System/assets/105421946/7e0bfc04-1d06-477d-bc63-5c43a7ee5881)
+![Ekran Alıntısı2](https://github.com/ozgeerkskn/Student_Management_System/assets/105421946/a5e2fcae-a914-419c-b0f0-8cde39b28088)
+![Ekran Alıntısı3](https://github.com/ozgeerkskn/Student_Management_System/assets/105421946/7bab0a77-93c6-411e-8abd-c8b0027d9f74)
+![Ekran Alıntısı4](https://github.com/ozgeerkskn/Student_Management_System/assets/105421946/be90732f-3620-4a69-a762-529adcef1cf3)
+![Ekran Alıntısı5](https://github.com/ozgeerkskn/Student_Management_System/assets/105421946/8b9770da-1784-4912-a4e9-58bde803a08c)
