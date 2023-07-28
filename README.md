@@ -17,9 +17,9 @@ I'm currently working on the schedule part. -> Will be added soon:)
 Follow the steps below to login to the system:
 1) Create a database in phpmyadmin. The name of the database is preferably "stdmngdb".
 2) Import the file named "stdmngdb.sql" located in the DB folder.
-3)Username and passwords to login to the system:  
-    robot 112233
-    admin admin
+3)Username and passwords to login to the system:  (Ignore the "/" sign.)
+    robot 112233 /
+    admin admin  /
     root  root
 
    
