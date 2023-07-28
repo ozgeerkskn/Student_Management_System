@@ -1,5 +1,5 @@
 # Student_Management_System
-Student Management System - This system is written in Java Swing.
+Student Management System - This system is written in Java Swing and I use Apache NetBeans IDE 18
 The system is currently at a very basic level. However, it is under development.
 Student Management System consists of 3 main parts:
 Student (Add / Manage)
@@ -23,4 +23,4 @@ Follow the steps below to login to the system:
     admin admin  /
     root  root
 
-   
+   For communication: ozgeerkskn@hotmail.com
